@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartPay</string>
+    <String-array name="kasomthing">
+        <Items>anything</Items>
+        <Items>anything</Items>
+        <Items>anything</Items>
+        <Items>anything</Items>
+    </String-array>
+</resources>
